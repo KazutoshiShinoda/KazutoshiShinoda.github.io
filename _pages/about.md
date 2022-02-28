@@ -16,27 +16,30 @@ toc_icon: "cog"
   * Systems Innovation, Faculty of Engineering, The University of Tokyo
 
 ## Experience
-* Sep. 2019 – present: Research Assistant, The University of Tokyo
 * Mar. 2019 – present: Research Assistant, National Institute of Informatics
+* Jan. 2022 - Feb. 2022: Research Intern, NTT Human Informatics Laboratory
+* Sep. 2019 – Sep. 2021: Research Assistant, The University of Tokyo
 * Jul. 2020 - Mar. 2021: Collaborative Research with Matsuo Lab, The University of Tokyo
-* Apr. 2020 – Jun. 2020: Freelance AI Engineer
+* Apr. 2020 – Jun. 2020: Freelance Machine Learning Engineer
 * May 2019 - Sep. 2019: Algorithm Engineer, ACES Inc.
-* Oct. 2018 – Feb. 2019: Freelance AI Engineer
+* Oct. 2018 – Feb. 2019: Freelance Machine Learning Engineer
 * Feb. 2018 – Mar. 2018: Research Intern, NTT Media Intelligence Laboratory
 * Jul. 2017 – Aug. 2017: R&D Intern, DeNA Co., Ltd.
 * Mar. 2017 - Jul. 2017: Algorithm Intern, PKSHA Technology Inc.
 
 ## Funding
-* Apr. 2022 - Mar. 2024: JSPS Research Fellowship (DC2)
-* Oct. 2021 - Mar. 2022: JST SPRING GX
-* Apr. 2017 - Mar. 2018: UTokyo Toyota-Dwango AI scholarship
+* Apr. 2022 - Mar. 2024: Research Fellowship (DC2), JSPS
+* Oct. 2021 - Mar. 2022: SPRING GX, JST (330K JPY)
 
 ## Awards
-* Jun. 2021: JSAI Incentive Award (2020), the Japanese Society for Artificial Intelligence (JSAI)
+* Jun. 2021: JSAI Incentive Award (2020), the Japanese Society for Artificial Intelligence (JSAI) (Top 5%)
 * Dec. 2020: Presentation Award, NTCIR-15
 * Mar. 2019: Paper Award, the 25th Annual Meeting of the Association for Natural
 Language Processing
+
+## Scholarships
 * Mar. 2019: Half exemption from repayment for particularly outstanding achievements, Japan Student Services Organization (JASSO)
+* Apr. 2017 - Mar. 2018: UTokyo Toyota-Dwango AI scholarship
 
 ## Talk
 * Sep. 2021: 最先端NLP勉強会 [[slides](https://github.com/KazutoshiShinoda/slides/blob/master/SNLP2021-IntrinsicDimensionalityExplainstheEffectivenessofLanguageModelFineTuning.pdf)] (in Japanese)
@@ -46,6 +49,8 @@ Language Processing
 * Sep. 2019: 最先端NLP勉強会 [[slides](https://github.com/KazutoshiShinoda/slides/blob/master/SNLP2019-latent-normalizing-flow-for-discrete-sequences.pdf)] (in Japanese)
 
 ## Reviewer
+* ARR2022 Jan.
+* ARR2021 Nov. (secondary)
 * EMNLP2021
 * NAACL2021
 * TACL2021 (secondary)
