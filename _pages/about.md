@@ -33,9 +33,9 @@ toc_icon: "cog"
 
 ## Awards
 * Jun. 2021: JSAI Incentive Award (2020), the Japanese Society for Artificial Intelligence (JSAI) (Top 5%)
-* Dec. 2020: Presentation Award, NTCIR-15
+* Dec. 2020: Presentation Award, NTCIR-15 (co-authored)
 * Mar. 2019: Paper Award, the 25th Annual Meeting of the Association for Natural
-Language Processing
+Language Processing (Top 1.7%, co-authored)
 
 ## Scholarships
 * Mar. 2019: Half exemption from repayment for particularly outstanding achievements, Japan Student Services Organization (JASSO)
