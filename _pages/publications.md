@@ -9,7 +9,7 @@ toc_icon: "cog"
 Can also be found in [Google Scholar](https://scholar.google.co.jp/citations?user=CKzpArsAAAAJ&hl=ja) and [dblp](https://dblp.uni-trier.de/pers/hd/s/Shinoda:Kazutoshi)
 
 ## Conference/Workshop Papers (Refreed)
-* **Kazutoshi Shinoda**, Yuki Takezawa, Masahiro Suzuki, Yusuke Iwasawa, Yutaka Matsuo: "Improving the Robustness to Variations of Objects and Instructions with A Neuro-Symbolic Approach for Interactive Instruction Following." In Proceedings of the 1st Workshop on Novel Ideas in Learning-to-Learn through Interaction (NILLI) at EMNLP 2021, Punta Cana, Dominican Republic, 2021. (non-archival)
+* **Kazutoshi Shinoda**, Yuki Takezawa, Masahiro Suzuki, Yusuke Iwasawa, Yutaka Matsuo: "Improving the Robustness to Variations of Objects and Instructions with A Neuro-Symbolic Approach for Interactive Instruction Following." The 1st Workshop on Novel Ideas in Learning-to-Learn through Interaction (NILLI) at EMNLP 2021, Punta Cana, Dominican Republic, 2021. (non-archival)
   * [[paper](https://www.cs.mcgill.ca/~pparth2/nilli_workshop//assets/pdf/1.pdf)] [[arXiv](https://arxiv.org/abs/2110.07031)] [[poster](https://github.com/KazutoshiShinoda/slides/blob/master/NILLI2021.pdf)]
 * **Kazutoshi Shinoda**, Saku Sugawara, Akiko Aizawa: "Can Question Generation Debias Question Answering Models? A Case Study on Question-Context Lexical Overlap." In Proceedings of the 3rd Workshop on Machine Reading for Question Answering (MRQA) at EMNLP 2021, pages 63–72, Punta Cana, Dominican Republic, 2021. (acceptance rate = 76%)
   * [[paper](https://aclanthology.org/2021.mrqa-1.6/)] [[arXiv](https://arxiv.org/abs/2109.11256)] [[data](https://github.com/KazutoshiShinoda/Synonym-Replacement)] [[poster](https://github.com/KazutoshiShinoda/slides/blob/master/MRQA2021.pdf)]
@@ -23,8 +23,8 @@ Can also be found in [Google Scholar](https://scholar.google.co.jp/citations?use
   * [[paper](http://ceur-ws.org/Vol-1888/paper6.pdf)]
 
 ## Domestic Conferences, Symposia, and Preprints (Unrefreed)
-* **篠田一聡**, 菅原朔, 相澤彰子: "抽出型質問応答における相対位置バイアスの除去." 言語処理学会第28回年次大会(NLP2022), オンライン, 2021. (to appear)
-  * [paper] [slides]
+* **篠田一聡**, 菅原朔, 相澤彰子: "抽出型質問応答における相対位置バイアスの除去." 言語処理学会第28回年次大会(NLP2022), オンライン, 2022.
+  * [[paper](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/C1-4.pdf)] [slides]
 * **篠田一聡**, 竹澤祐貴, 鈴木雅大, 岩澤有祐, 松尾豊: "Interactive Instruction FollowingのためのNeuro-Symbolic手法による多様な物体と言語指示への頑健性の向上." 人工知能学会第35回全国大会(JSAI2021), オンライン, 2021.
   * [[paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_2J3GS8b03/_article/-char/ja/)] [[slides](https://github.com/KazutoshiShinoda/slides/blob/a429e5e9e95b97a93faa34c5757b39117fbc9855/JSAI2021Shinoda.pdf)]
 * 竹澤祐貴, **篠田一聡**, 鈴木雅大, 岩澤有祐, 松尾豊: "Instruction Followingにおける構成的タスク表現の獲得." 人工知能学会第35回全国大会(JSAI2021), オンライン, 2021.

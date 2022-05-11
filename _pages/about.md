@@ -28,7 +28,7 @@ toc_icon: "cog"
 * Mar. 2017 - Jul. 2017: Algorithm Intern, PKSHA Technology Inc.
 
 ## Funding
-* Apr. 2022 - Mar. 2024: Research Fellowship (DC2), JSPS
+* Apr. 2022 - Mar. 2024: Research Fellowship (DC2), JSPS (1.7M JPY)
 * Oct. 2021 - Mar. 2022: SPRING GX, JST (330K JPY)
 
 ## Awards
@@ -49,7 +49,7 @@ Language Processing (Top 1.7%, co-authored)
 * Sep. 2019: 最先端NLP勉強会 [[slides](https://github.com/KazutoshiShinoda/slides/blob/master/SNLP2019-latent-normalizing-flow-for-discrete-sequences.pdf)] (in Japanese)
 
 ## Reviewer
-* ARR2022 Jan.
+* ARR2022 Jan., Mar.
 * ARR2021 Nov. (secondary)
 * EMNLP2021
 * NAACL2021
