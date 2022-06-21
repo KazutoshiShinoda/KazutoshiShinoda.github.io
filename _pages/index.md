@@ -4,8 +4,11 @@ layout: home
 author_profile: true
 ---
 
-I am a 3rd-year PhD student in the Computer Science Department of the University of Tokyo.
+* PhD candidate in [the Computer Science Department](https://www.i.u-tokyo.ac.jp/edu/course/cs/) at [the University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html), under the supervision of [Prof. Akiko Aizawa](https://www-al.nii.ac.jp/)
+* JSPS Research Fellow (DC2)
+* Research Assistant at [National Institute of Informatics](https://www.nii.ac.jp/en/)
 
-My adviser is Prof. Akiko Aizawa. [[link](https://www-al.nii.ac.jp/)]
-
-My research interests are in Natural Language Understanding / Generation, Generative Models, and Model Robustness.
+### Research Interest
+* Natural Language Processing
+* Question Answering and Generatoin
+* Dataset Bias and Shortcut Learning
