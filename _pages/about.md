@@ -42,15 +42,12 @@ Language Processing (Top 1.7%, co-authored)
 * Mar. 2019: Half exemption from repayment for particularly outstanding achievements, Japan Student Services Organization (JASSO)
 * Apr. 2017 - Mar. 2018: UTokyo Toyota-Dwango AI scholarship
 
-## Reviewer
-* EMNLP2022
-* ARR2022 Jan., Mar.
-* ARR2021 Nov. (secondary)
-* EMNLP2021
-* NAACL2021
-* TACL2021 (secondary)
-* ACL2020
-* ACL2019 (secondary)
+## Review
+* 2023: MMM
+* 2022: ARR Jan., Mar., EMNLP
+* 2021: ARR Nov. (secondary), EMNLP, NAACL, TACL2021 (secondary)
+* 2020: ACL
+* 2019: ACL (secondary)
 
 ## Teaching
 * May. 2018 - Sep. 2018: [Deep Learning for NLP Summer School](https://deeplearning.jp/deep-learning-for-nlp) TA (sponsored by UTokyo)
