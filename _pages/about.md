@@ -7,10 +7,10 @@ toc_icon: "cog"
 ---
 
 ## Education
-* Sep. 2019 - present: Doctor of Computer Science (expected)
-  * Graduate School of Information Science and Technology, The University of Tokyo
-* Apr. 2017 - Sep. 2019: Master of Computer Science
-  * Graduate School of Information Science and Technology, The University of Tokyo
+* Sep. 2019 - present: Doctor Course
+  * Department of Computer Science, Graduate School of Information Science and Technology, The University of Tokyo
+* Apr. 2017 - Sep. 2019: Master of Information Science and Technology
+  * Department of Computer Science, Graduate School of Information Science and Technology, The University of Tokyo
   * The title of my master thesis: "Generating Diverse Question-Answer Pairs for Machine Reading Comprehension"
 * Apr. 2013 - Mar. 2017: Bachelor of Engineering
   * Systems Innovation, Faculty of Engineering, The University of Tokyo
@@ -54,8 +54,8 @@ Language Processing (Top 1.7%, co-authored)
 * Apr. 2018 - Jun. 2018: Making Aidemy's online course ["NLP for Question Answering"](https://aidemy.net/courses/6120)
 
 ## Other Activities
-* Sep. 2021: 最先端NLP勉強会 [[slides](https://github.com/KazutoshiShinoda/slides/blob/master/SNLP2021-IntrinsicDimensionalityExplainstheEffectivenessofLanguageModelFineTuning.pdf)] (in Japanese)
+* Sep. 2021: 論文紹介＠最先端NLP勉強会 [[slides](https://github.com/KazutoshiShinoda/slides/blob/master/SNLP2021-IntrinsicDimensionalityExplainstheEffectivenessofLanguageModelFineTuning.pdf)] (in Japanese)
 * Mar. 2021: [第19回 NLP Dの会](https://sites.google.com/view/nlptokyod) (in Japanese)
-* Sep. 2020: 最先端NLP勉強会 [[slides](https://github.com/KazutoshiShinoda/slides/blob/master/SNLP2020-A-Systematic-Assessment-of-Syntactic-Generalization-in-Neural-Language-Models.pdf)] (in Japanese)
+* Sep. 2020: 論文紹介＠最先端NLP勉強会 [[slides](https://github.com/KazutoshiShinoda/slides/blob/master/SNLP2020-A-Systematic-Assessment-of-Syntactic-Generalization-in-Neural-Language-Models.pdf)] (in Japanese)
 * Jun. 2020: NII Open House 2020 (poster session) "Artificial Intelligence to Create Reading Comprehension Questions" [[poster](https://www.nii.ac.jp/event/upload/C04_oh2020.pdf)] (in Japanese)
-* Sep. 2019: 最先端NLP勉強会 [[slides](https://github.com/KazutoshiShinoda/slides/blob/master/SNLP2019-latent-normalizing-flow-for-discrete-sequences.pdf)] (in Japanese)
+* Sep. 2019: 論文紹介＠最先端NLP勉強会 [[slides](https://github.com/KazutoshiShinoda/slides/blob/master/SNLP2019-latent-normalizing-flow-for-discrete-sequences.pdf)] (in Japanese)
