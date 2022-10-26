@@ -9,7 +9,7 @@ toc_icon: "cog"
 Can also be found in [Google Scholar](https://scholar.google.co.jp/citations?user=CKzpArsAAAAJ&hl=ja), [dblp](https://dblp.uni-trier.de/pers/hd/s/Shinoda:Kazutoshi), and [Semantic Scholar](https://www.semanticscholar.org/author/Kazutoshi-Shinoda/50088672)
 
 ## Conference/Workshop Papers (Refreed)
-* **Kazutoshi Shinoda**, Yuki Takezawa, Masahiro Suzuki, Yusuke Iwasawa, Yutaka Matsuo: "Improving the Robustness to Variations of Objects and Instructions with A Neuro-Symbolic Approach for Interactive Instruction Following." In Proceedings of the 29th Internatinal Conference on Multimedia Modeling. Bergen, Norway, January, 2023. (to appear)
+* **Kazutoshi Shinoda**, Yuki Takezawa, Masahiro Suzuki, Yusuke Iwasawa, Yutaka Matsuo: "Improving the Robustness to Variations of Objects and Instructions with A Neuro-Symbolic Approach for Interactive Instruction Following." In Proceedings of the 29th Internatinal Conference on Multimedia Modeling (MMM). Bergen, Norway, January, 2023. (to appear)
   * [[arXiv](https://arxiv.org/abs/2110.07031)]
 * **Kazutoshi Shinoda**, Saku Sugawara, Akiko Aizawa: "Look to the Right: Mitigating Relative Position Bias in Extractive Question Answering." In Proceedings of the Fifth BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP at EMNLP 2022. Abu Dhabi, United Arab Emirates, December, 2022. (to appear)
 * **Kazutoshi Shinoda**, Saku Sugawara, Akiko Aizawa: "Can Question Generation Debias Question Answering Models? A Case Study on Question-Context Lexical Overlap." In Proceedings of the 3rd Workshop on Machine Reading for Question Answering (MRQA) at EMNLP 2021, pages 63–72. Punta Cana, Dominican Republic, November 2021. (acceptance rate = 76%)
