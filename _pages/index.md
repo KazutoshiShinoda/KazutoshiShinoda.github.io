@@ -10,3 +10,14 @@ author_profile: true
 * Natural Language Processing
 * Question Answering and Question Generation
 * Dataset Bias and Shortcut Learning
+
+### News
+**October, 2022** Our paper has been accpeted to MMM2023.
+{: .notice--success}
+
+**October, 2022** Our paper has been accepted to BlackboxNLP at EMNLP2022.
+{: .notice--success}
+
+<div class="text-center">
+    <a href="/archive/" style="font-size: smaller; font-decoration: italic;">Older News</a>
+</div>
