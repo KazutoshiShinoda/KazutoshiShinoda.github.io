@@ -9,6 +9,7 @@ toc_icon: "cog"
 Can also be found in [Google Scholar](https://scholar.google.co.jp/citations?user=CKzpArsAAAAJ&hl=ja), [dblp](https://dblp.uni-trier.de/pers/hd/s/Shinoda:Kazutoshi), and [Semantic Scholar](https://www.semanticscholar.org/author/Kazutoshi-Shinoda/50088672)
 
 ## Conference/Workshop Papers (Refreed)
+* **Kazutoshi Shinoda**, Saku Sugawara, Akiko Aizawa: "Which Shortcut Solution Do Question Answering Models Prefer to Learn?" In Proceedings of the 37th AAAI conference on Artificial Intelligence (AAAI). Washington, DC, USA, February, 2023. (to appear) (acceptance rate = 19.6%)
 * **Kazutoshi Shinoda**, Yuki Takezawa, Masahiro Suzuki, Yusuke Iwasawa, Yutaka Matsuo: "Improving the Robustness to Variations of Objects and Instructions with A Neuro-Symbolic Approach for Interactive Instruction Following." In Proceedings of the 29th Internatinal Conference on Multimedia Modeling (MMM). Bergen, Norway, January, 2023. (to appear)
   * [paper] [[arXiv](https://arxiv.org/abs/2110.07031)]
 * **Kazutoshi Shinoda**, Saku Sugawara, Akiko Aizawa: "Look to the Right: Mitigating Relative Position Bias in Extractive Question Answering." In Proceedings of the Fifth BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP at EMNLP 2022. Abu Dhabi, United Arab Emirates, December, 2022. (to appear)
@@ -26,6 +27,7 @@ Can also be found in [Google Scholar](https://scholar.google.co.jp/citations?use
 
 ## Others (Unrefreed)
 Domestic conferences, non-archival workshops, symposia, preprints, etc.
+* **Kazutoshi Shinoda**, Saku Sugawara, Akiko Aizawa: "Penalizing Confident Predictions on Largely Perturbed Inputs Does Not Improve Out-of-Distribution Generalization in Question Answering." The Workshop on Knowledge Augmented Methods for NLP (KnowledgeNLP) at AAAI 2023. Washington, DC, USA, February, 2023. (to appear)
 * **篠田一聡**, 菅原朔, 相澤彰子: "抽出型質問応答における相対位置バイアスの除去." 言語処理学会第28回年次大会(NLP2022), オンライン, 2022.
   * [[paper](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/C1-4.pdf)] [slides]
 * **Kazutoshi Shinoda**, Yuki Takezawa, Masahiro Suzuki, Yusuke Iwasawa, Yutaka Matsuo: "Improving the Robustness to Variations of Objects and Instructions with A Neuro-Symbolic Approach for Interactive Instruction Following." The 1st Workshop on Novel Ideas in Learning-to-Learn through Interaction (NILLI) at EMNLP 2021. Punta Cana, Dominican Republic, November, 2021. (non-archival)
