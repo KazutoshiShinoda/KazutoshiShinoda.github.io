@@ -10,7 +10,9 @@ Can also be found in [Google Scholar](https://scholar.google.co.jp/citations?use
 
 ## Conference/Workshop Papers (Refereed)
 * **Kazutoshi Shinoda**, Saku Sugawara, Akiko Aizawa: "Which Shortcut Solution Do Question Answering Models Prefer to Learn?" In Proceedings of the 37th AAAI conference on Artificial Intelligence (AAAI). Washington, DC, USA. February, 2023. (to appear) (acceptance rate = 19.6%)
+  * [[arXiv](https://arxiv.org/abs/2211.16220)] [[code](https://github.com/KazutoshiShinoda/ShortcutLearnability)]
 * **Kazutoshi Shinoda**, Saku Sugawara, Akiko Aizawa: "Penalizing Confident Predictions on Largely Perturbed Inputs Does Not Improve Out-of-Distribution Generalization in Question Answering." The Workshop on Knowledge Augmented Methods for NLP (KnowledgeNLP) at AAAI 2023. Washington, DC, USA. February, 2023. (to appear)
+  * [[arXiv](https://arxiv.org/abs/2211.16093)]
 * **Kazutoshi Shinoda**, Yuki Takezawa, Masahiro Suzuki, Yusuke Iwasawa, Yutaka Matsuo: "Improving the Robustness to Variations of Objects and Instructions with A Neuro-Symbolic Approach for Interactive Instruction Following." In Proceedings of the 29th Internatinal Conference on Multimedia Modeling (MMM). Bergen, Norway. January, 2023. (to appear)
   * [paper] [[arXiv](https://arxiv.org/abs/2110.07031)]
 * **Kazutoshi Shinoda**, Saku Sugawara, Akiko Aizawa: "Look to the Right: Mitigating Relative Position Bias in Extractive Question Answering." In Proceedings of the Fifth BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP at EMNLP 2022. Abu Dhabi, United Arab Emirates. December, 2022. (to appear)
