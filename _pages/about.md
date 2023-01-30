@@ -6,15 +6,6 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 
-## Education
-* Sep. 2019 - present: Doctor Course
-  * Department of Computer Science, Graduate School of Information Science and Technology, The University of Tokyo
-* Apr. 2017 - Sep. 2019: Master of Information Science and Technology
-  * Department of Computer Science, Graduate School of Information Science and Technology, The University of Tokyo
-  * The title of my master thesis: "Generating Diverse Question-Answer Pairs for Machine Reading Comprehension"
-* Apr. 2013 - Mar. 2017: Bachelor of Engineering
-  * Systems Innovation, Faculty of Engineering, The University of Tokyo
-
 ## Experience
 * Mar. 2019 – present: Research Assistant, National Institute of Informatics
 * Jan. 2022 - Feb. 2022: Research Intern, NTT Human Informatics Laboratory
@@ -26,6 +17,15 @@ toc_icon: "cog"
 * Feb. 2018 – Mar. 2018: Research Intern, NTT Media Intelligence Laboratory
 * Jul. 2017 – Aug. 2017: R&D Intern, DeNA Co., Ltd.
 * Mar. 2017 - Jul. 2017: Algorithm Intern, PKSHA Technology Inc.
+
+## Education
+* Sep. 2019 - Mar. 2023: Doctor Course
+  * Department of Computer Science, Graduate School of Information Science and Technology, The University of Tokyo
+* Apr. 2017 - Sep. 2019: Master of Information Science and Technology
+  * Department of Computer Science, Graduate School of Information Science and Technology, The University of Tokyo
+  * The title of my master thesis: "Generating Diverse Question-Answer Pairs for Machine Reading Comprehension"
+* Apr. 2013 - Mar. 2017: Bachelor of Engineering
+  * Systems Innovation, Faculty of Engineering, The University of Tokyo
 
 ## Funding
 * Apr. 2022 - Mar. 2024: Research Fellowship (DC2), JSPS (1.7M JPY)
@@ -44,7 +44,7 @@ Language Processing (Top 1.7%, co-authored)
 
 ## Review
 * 2023: MMM
-* 2022: ARR Jan., Mar., EMNLP
+* 2022: ARR Jan., Mar., Dec., EMNLP
 * 2021: ARR Nov. (secondary), EMNLP, NAACL, TACL2021 (secondary)
 * 2020: ACL
 * 2019: ACL (secondary)
