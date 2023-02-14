@@ -10,7 +10,7 @@ Can also be found in [Google Scholar](https://scholar.google.co.jp/citations?use
 
 ## Conference/Workshop Papers (Refereed)
 * **Kazutoshi Shinoda**, Saku Sugawara, Akiko Aizawa: "Which Shortcut Solution Do Question Answering Models Prefer to Learn?" In Proceedings of the 37th AAAI conference on Artificial Intelligence (AAAI). Washington, DC, USA. February, 2023. (to appear) (Main track, acceptance rate = 19.6%, Oral)
-  * [[arXiv](https://arxiv.org/abs/2211.16220)] [[code](https://github.com/KazutoshiShinoda/ShortcutLearnability)] [[slides](https://github.com/KazutoshiShinoda/slides/blob/master/AAAI2023-presentation-public.pdf)]
+  * [[arXiv](https://arxiv.org/abs/2211.16220)] [[code](https://github.com/KazutoshiShinoda/ShortcutLearnability)] [[slides](https://github.com/KazutoshiShinoda/slides/blob/master/AAAI2023-presentation-public.pdf)] [[poster](https://github.com/KazutoshiShinoda/slides/blob/master/AAAI2023-poster-public.pdf)]
 * **Kazutoshi Shinoda**, Saku Sugawara, Akiko Aizawa: "Penalizing Confident Predictions on Largely Perturbed Inputs Does Not Improve Out-of-Distribution Generalization in Question Answering." The Workshop on Knowledge Augmented Methods for NLP (KnowledgeNLP) at AAAI 2023. Washington, DC, USA. February, 2023. (to appear)
   * [[paper](https://knowledge-nlp.github.io/aaai2023/papers/008-OODQA-poster.pdf)] [[arXiv](https://arxiv.org/abs/2211.16093)]
 * **Kazutoshi Shinoda**, Yuki Takezawa, Masahiro Suzuki, Yusuke Iwasawa, Yutaka Matsuo: "Improving the Robustness to Variations of Objects and Instructions with A Neuro-Symbolic Approach for Interactive Instruction Following." In Proceedings of the 29th Internatinal Conference on Multimedia Modeling (MMM). Bergen, Norway. January, 2023. (to appear) (acceptance rate = 39.4%)
