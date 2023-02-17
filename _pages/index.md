@@ -8,7 +8,7 @@ author_profile: true
 
 ### Research Interest
 * Natural Language Processing
-* Question Answering and Question Generation
+* Question Answering and Reading Comprehension
 * Dataset Bias and Shortcut Learning
 
 ### News
