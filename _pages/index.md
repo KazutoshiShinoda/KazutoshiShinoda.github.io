@@ -12,17 +12,16 @@ author_profile: true
 * Dataset Bias and Shortcut Learning
 
 ### News
-**November, 2022** One paper has been accepted to AAAI2023.
-[arXiv](https://arxiv.org/abs/2211.16220){: .btn .btn--primary}
+**November, 2022** One paper has been accepted to AAAI2023. [Paper](https://arxiv.org/abs/2211.16220){: .btn .btn--primary}
 {: .notice--success}
 
-**November, 2022** One paper has been accepted to the KnowledgeNLP workshop at AAAI2023.
+**November, 2022** One paper has been accepted to the KnowledgeNLP workshop at AAAI2023. [Paper](https://arxiv.org/abs/2211.16093){: .btn .btn--primary}
 {: .notice--success}
 
-**October, 2022** One paper has been accepted to MMM2023.
+**October, 2022** One paper has been accepted to MMM2023. [Paper](https://arxiv.org/abs/2110.07031){: .btn .btn--primary}
 {: .notice--success}
 
-**October, 2022** One paper has been accepted to the BlackboxNLP workshop at EMNLP2022.
+**October, 2022** One paper has been accepted to the BlackboxNLP workshop at EMNLP2022. [Paper](https://aclanthology.org/2022.blackboxnlp-1.35/){: .btn .btn--primary}
 {: .notice--success}
 
 <div class="text-center">
