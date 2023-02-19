@@ -13,6 +13,7 @@ author_profile: true
 
 ### News
 **November, 2022** One paper has been accepted to AAAI2023.
+[arXiv](https://arxiv.org/abs/2211.16220){: .btn .btn--primary}
 {: .notice--success}
 
 **November, 2022** One paper has been accepted to the KnowledgeNLP workshop at AAAI2023.
