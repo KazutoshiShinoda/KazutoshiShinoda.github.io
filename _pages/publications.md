@@ -31,7 +31,7 @@ Can also be found in [Google Scholar](https://scholar.google.co.jp/citations?use
 ## Others (Unrefereed)
 Domestic conferences, symposia, preprints, etc.
 * **篠田一聡**, 菅原朔, 相澤彰子: "抽出型質問応答における相対位置バイアスの除去." 言語処理学会第28回年次大会(NLP2022), オンライン, 2022.
-  * [[paper](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/C1-4.pdf)] [slides]
+  * [[paper](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/C1-4.pdf)] [[slides](https://github.com/KazutoshiShinoda/slides/blob/master/NLP2022.pdf)]
 * **Kazutoshi Shinoda**, Yuki Takezawa, Masahiro Suzuki, Yusuke Iwasawa, Yutaka Matsuo: "Improving the Robustness to Variations of Objects and Instructions with A Neuro-Symbolic Approach for Interactive Instruction Following." The 1st Workshop on Novel Ideas in Learning-to-Learn through Interaction (NILLI) at EMNLP 2021. Punta Cana, Dominican Republic. November, 2021. (non-archival)
   * [[paper](https://www.cs.mcgill.ca/~pparth2/nilli_workshop//assets/pdf/1.pdf)] [[arXiv](https://arxiv.org/abs/2110.07031)] [[poster](https://github.com/KazutoshiShinoda/slides/blob/master/NILLI2021.pdf)]
 * **篠田一聡**, 竹澤祐貴, 鈴木雅大, 岩澤有祐, 松尾豊: "Interactive Instruction FollowingのためのNeuro-Symbolic手法による多様な物体と言語指示への頑健性の向上." 人工知能学会第35回全国大会(JSAI2021), オンライン, 2021.
