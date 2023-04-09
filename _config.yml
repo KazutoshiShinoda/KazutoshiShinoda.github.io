@@ -104,13 +104,13 @@ analytics:
 author:
   name             : "Kazutoshi Shinoda"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD student at UTokyo."
+  bio              : ""
   location         : "Tokyo, Japan"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:shinoda@is.s.u-tokyo.ac.jp"
+      url: "mailto:kazutoshi.shinoda0516@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -123,6 +123,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/KazutoshiShinoda"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/kazutoshi-shinoda-111705117/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -139,6 +142,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/KazutoshiShinoda"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/kazutoshi-shinoda-111705117/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
