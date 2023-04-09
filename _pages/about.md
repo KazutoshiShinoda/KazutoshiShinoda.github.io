@@ -7,29 +7,38 @@ toc_icon: "cog"
 ---
 
 ## Experience
-* Mar. 2019 – present: Research Assistant, National Institute of Informatics
-* Jan. 2022 - Feb. 2022: Research Intern, NTT Human Informatics Laboratory
+* Apr. 2023 - present: Researcher, NTT Computer & Data Science Laboratories
+* Apr. 2022 - Mar. 2023: JSPS Research Fellow (DC2), The University of Tokyo
+* Dec. 2021 - Mar. 2023: JST SPRING GX, The University of Tokyo
+* Nov. 2022 - Mar. 2023: Algorithm Engineer, ACES
+* Dec. 2021 - Mar. 2023: Researcher, Ememe
+* Mar. 2019 – Feb. 2023: Research Assistant, National Institute of Informatics
+* Jan. 2022 - Feb. 2022: Research Intern, NTT Human Informatics Laboratories
 * Sep. 2019 – Sep. 2021: Research Assistant, The University of Tokyo
 * Jul. 2020 - Mar. 2021: Collaborative Research with Matsuo Lab, The University of Tokyo
 * Apr. 2020 – Jun. 2020: Freelance Machine Learning Engineer
-* May 2019 - Sep. 2019: Algorithm Engineer, ACES Inc.
+* May  2019 - Sep. 2019: Algorithm Engineer, ACES
 * Oct. 2018 – Feb. 2019: Freelance Machine Learning Engineer
-* Feb. 2018 – Mar. 2018: Research Intern, NTT Media Intelligence Laboratory
-* Jul. 2017 – Aug. 2017: R&D Intern, DeNA Co., Ltd.
-* Mar. 2017 - Jul. 2017: Algorithm Intern, PKSHA Technology Inc.
+* Feb. 2018 – Mar. 2018: Research Intern, NTT Media Intelligence Laboratories
+* Jul. 2017 – Aug. 2017: R&D Intern, DeNA
+* Mar. 2017 - Jul. 2017: Algorithm Intern, PKSHA Technology
 
 ## Education
-* Sep. 2019 - Mar. 2023: Doctor Course
+* Sep. 2019 - Mar. 2023: Doctor of Information Science and Technology
   * Department of Computer Science, Graduate School of Information Science and Technology, The University of Tokyo
+  * The title of my PhD thesis: "Debiasing Reading Comprehension Models Towards Out-of-Distribution Generalization"
+  * Adviser: Prof. Akiko Aizawa
 * Apr. 2017 - Sep. 2019: Master of Information Science and Technology
   * Department of Computer Science, Graduate School of Information Science and Technology, The University of Tokyo
   * The title of my master thesis: "Generating Diverse Question-Answer Pairs for Machine Reading Comprehension"
+  * Adviser: Prof. Akiko Aizawa
 * Apr. 2013 - Mar. 2017: Bachelor of Engineering
-  * Systems Innovation, Faculty of Engineering, The University of Tokyo
+  * Department of Systems Innovation (C), Faculty of Engineering, The University of Tokyo
+  * Adviser: Prof. Katsuyuki Suzuki
 
 ## Funding
 * Apr. 2022 - Mar. 2024: Research Fellowship (DC2), JSPS (1.7M JPY)
-* Oct. 2021 - Mar. 2022: SPRING GX, JST (330K JPY)
+* Oct. 2021 - Mar. 2022: SPRING, JST (330K JPY)
 
 ## Awards
 * Jun. 2021: JSAI Incentive Award (2020), the Japanese Society for Artificial Intelligence (JSAI) (Top 5%)
