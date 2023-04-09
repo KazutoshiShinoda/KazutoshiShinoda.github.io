@@ -4,12 +4,12 @@ layout: home
 author_profile: true
 ---
 
-* PhD candidate in [the Computer Science Department](https://www.i.u-tokyo.ac.jp/edu/course/cs/) at [the University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html), under the supervision of [Prof. Akiko Aizawa](https://www-al.nii.ac.jp/)
+* Researcher at NTT Computer & Data Science Laboratories
 
 ### Research Interest
 * Natural Language Processing
-* Question Answering and Reading Comprehension
-* Dataset Bias and Shortcut Learning
+* Question Answering for Reading Comprehension
+* Spurious Correlation / Dataset Bias / Shortcut Learning
 
 ### News
 **November, 2022** One paper has been accepted to AAAI2023. [Paper](https://arxiv.org/abs/2211.16220){: .btn .btn--primary}
