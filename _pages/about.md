@@ -28,12 +28,13 @@ toc_icon: "cog"
   * Department of Computer Science, Graduate School of Information Science and Technology, The University of Tokyo
   * The title of my PhD thesis: "Debiasing Reading Comprehension Models Towards Out-of-Distribution Generalization"
   * Adviser: Prof. Akiko Aizawa
+  * [[thesis](https://github.com/KazutoshiShinoda/PhDThesis)]
 * Apr. 2017 - Sep. 2019: Master of Information Science and Technology
   * Department of Computer Science, Graduate School of Information Science and Technology, The University of Tokyo
   * The title of my master thesis: "Generating Diverse Question-Answer Pairs for Machine Reading Comprehension"
   * Adviser: Prof. Akiko Aizawa
 * Apr. 2013 - Mar. 2017: Bachelor of Engineering
-  * Department of Systems Innovation (C), Faculty of Engineering, The University of Tokyo
+  * Department of Systems Innovation (C), School of Engineering, The University of Tokyo
   * Adviser: Prof. Katsuyuki Suzuki
 
 ## Funding

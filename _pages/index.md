@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 * Researcher at NTT Computer & Data Science Laboratories
+* Ph.D. in Information Science and Technology
 
 ### Research Interest
 * Natural Language Processing
