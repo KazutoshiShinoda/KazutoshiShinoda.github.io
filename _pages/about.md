@@ -9,7 +9,6 @@ toc_icon: "cog"
 ## Experience
 * Apr. 2023 - present: Researcher, NTT Computer & Data Science Laboratories
 * Apr. 2022 - Mar. 2023: JSPS Research Fellow (DC2), The University of Tokyo
-* Dec. 2021 - Mar. 2023: JST SPRING GX, The University of Tokyo
 * Nov. 2022 - Mar. 2023: Algorithm Engineer, ACES
 * Dec. 2021 - Mar. 2023: Researcher, Ememe
 * Mar. 2019 – Feb. 2023: Research Assistant, National Institute of Informatics
@@ -38,7 +37,7 @@ toc_icon: "cog"
   * Adviser: Prof. Katsuyuki Suzuki
 
 ## Funding
-* Apr. 2022 - Mar. 2024: Research Fellowship (DC2), JSPS (1.7M JPY)
+* Apr. 2022 - Mar. 2023: Research Fellowship (DC2), JSPS (800K JPY)
 * Oct. 2021 - Mar. 2022: SPRING, JST (330K JPY)
 
 ## Awards
