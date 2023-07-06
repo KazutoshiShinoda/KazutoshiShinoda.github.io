@@ -96,7 +96,7 @@ social:
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "UA-107277017-3"
+    tracking_id          : "G-RHK7JKMTTB"
     anonymize_ip         : # true, false (default)
 
 
@@ -124,11 +124,11 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/KazutoshiShinoda"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png"
       url: "https://www.linkedin.com/in/kazutoshi-shinoda-111705117/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "researchmap"
+      icon: "https://researchmap.jp/outline/img/researchmap130.gif"
+      url: "https://researchmap.jp/kazutoshishinoda"
 
 # Site Footer
 footer:
@@ -143,17 +143,11 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/KazutoshiShinoda"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png"
       url: "https://www.linkedin.com/in/kazutoshi-shinoda-111705117/"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+    - label: "researchmap"
+      icon: "https://researchmap.jp/outline/img/researchmap130.gif"
+      url: "https://researchmap.jp/kazutoshishinoda"
 
 
 # Reading Files
