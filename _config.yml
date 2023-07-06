@@ -124,10 +124,10 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/KazutoshiShinoda"
     - label: "LinkedIn"
-      icon: "https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png"
+      icon: "/assets/images/LI-In-Bug.png"
       url: "https://www.linkedin.com/in/kazutoshi-shinoda-111705117/"
     - label: "researchmap"
-      icon: "https://researchmap.jp/outline/img/researchmap130.gif"
+      icon: "/assets/images/researchmap130.gif"
       url: "https://researchmap.jp/kazutoshishinoda"
 
 # Site Footer
@@ -143,10 +143,10 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/KazutoshiShinoda"
     - label: "LinkedIn"
-      icon: "https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png"
+      icon: "/assets/images/LI-In-Bug.png"
       url: "https://www.linkedin.com/in/kazutoshi-shinoda-111705117/"
     - label: "researchmap"
-      icon: "https://researchmap.jp/outline/img/researchmap130.gif"
+      icon: "/assets/images/researchmap130.gif"
       url: "https://researchmap.jp/kazutoshishinoda"
 
 
