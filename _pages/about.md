@@ -36,10 +36,6 @@ toc_icon: "cog"
   * Department of Systems Innovation (C), School of Engineering, The University of Tokyo
   * Adviser: Prof. Katsuyuki Suzuki
 
-## Funding
-* Apr. 2022 - Mar. 2023: Research Fellowship (DC2), JSPS (900K JPY)
-* Oct. 2021 - Mar. 2022: SPRING, JST (330K JPY)
-
 ## Awards
 * Jun. 2021: JSAI Incentive Award (2020), the Japanese Society for Artificial Intelligence (JSAI) (Top 5%)
 * Dec. 2020: Presentation Award, NTCIR-15 (co-authored)
@@ -57,6 +53,10 @@ Language Processing (Top 1.7%, co-authored)
 * 2021: ARR Nov. (secondary), EMNLP, NAACL, TACL2021 (secondary)
 * 2020: ACL
 * 2019: ACL (secondary)
+
+## Funding
+* Apr. 2022 - Mar. 2023: Research Fellowship (DC2), JSPS (900K JPY)
+* Oct. 2021 - Mar. 2022: SPRING, JST (330K JPY)
 
 ## Teaching
 * May. 2018 - Sep. 2018: [Deep Learning for NLP Summer School](https://deeplearning.jp/deep-learning-for-nlp) TA (sponsored by UTokyo)
