@@ -37,7 +37,7 @@ toc_icon: "cog"
   * Adviser: Prof. Katsuyuki Suzuki
 
 ## Funding
-* Apr. 2022 - Mar. 2023: Research Fellowship (DC2), JSPS (800K JPY)
+* Apr. 2022 - Mar. 2023: Research Fellowship (DC2), JSPS (900K JPY)
 * Oct. 2021 - Mar. 2022: SPRING, JST (330K JPY)
 
 ## Awards
@@ -52,7 +52,7 @@ Language Processing (Top 1.7%, co-authored)
 * Apr. 2017 - Mar. 2018: UTokyo Toyota-Dwango AI scholarship
 
 ## Review
-* 2023: ACL, MMM
+* 2023: ACL, MMM, EMNLP
 * 2022: ARR Jan., Mar., Dec., EMNLP
 * 2021: ARR Nov. (secondary), EMNLP, NAACL, TACL2021 (secondary)
 * 2020: ACL
