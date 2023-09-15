@@ -13,24 +13,25 @@ toc_icon: "cog"
 * Dec. 2021 - Mar. 2023: Researcher, Ememe
 * Mar. 2019 – Feb. 2023: Research Assistant, National Institute of Informatics
 * Jan. 2022 - Feb. 2022: Research Intern, NTT Human Informatics Laboratories
+  * Adviser: Dr. Kyosuke Nishida
 * Sep. 2019 – Sep. 2021: Research Assistant, The University of Tokyo
 * Jul. 2020 - Mar. 2021: Collaborative Research with Matsuo Lab, The University of Tokyo
 * Apr. 2020 – Jun. 2020: Freelance Machine Learning Engineer
 * May  2019 - Sep. 2019: Algorithm Engineer, ACES
 * Oct. 2018 – Feb. 2019: Freelance Machine Learning Engineer
 * Feb. 2018 – Mar. 2018: Research Intern, NTT Media Intelligence Laboratories
+  * Adviser: Dr. Kyosuke Nishida
 * Jul. 2017 – Aug. 2017: R&D Intern, DeNA
 * Mar. 2017 - Jul. 2017: Algorithm Intern, PKSHA Technology
 
 ## Education
 * Sep. 2019 - Mar. 2023: Doctor of Information Science and Technology
   * Department of Computer Science, Graduate School of Information Science and Technology, The University of Tokyo
-  * The title of my PhD thesis: "Debiasing Reading Comprehension Models Towards Out-of-Distribution Generalization"
+  * PhD thesis: "Debiasing Reading Comprehension Models Towards Out-of-Distribution Generalization" [[link](https://github.com/KazutoshiShinoda/PhDThesis)]
   * Adviser: Prof. Akiko Aizawa
-  * [[thesis](https://github.com/KazutoshiShinoda/PhDThesis)]
 * Apr. 2017 - Sep. 2019: Master of Information Science and Technology
   * Department of Computer Science, Graduate School of Information Science and Technology, The University of Tokyo
-  * The title of my master thesis: "Generating Diverse Question-Answer Pairs for Machine Reading Comprehension"
+  * Master thesis: "Generating Diverse Question-Answer Pairs for Machine Reading Comprehension"
   * Adviser: Prof. Akiko Aizawa
 * Apr. 2013 - Mar. 2017: Bachelor of Engineering
   * Department of Systems Innovation (C), School of Engineering, The University of Tokyo
@@ -63,6 +64,7 @@ Language Processing (Top 1.7%, co-authored)
 * Apr. 2018 - Jun. 2018: Making Aidemy's online course ["NLP for Question Answering"](https://aidemy.net/courses/6120)
 
 ## Other Activities
+* Aug. 2023: 論文紹介＠最先端NLP勉強会 [[slides](https://speakerdeck.com/kazutoshishinoda/lun-wen-shao-jie-minding-language-models-lack-of-theory-of-mind-a-plug-and-play-multi-character-belief-tracker)]
 * Sep. 2021: 論文紹介＠最先端NLP勉強会 [[slides](https://github.com/KazutoshiShinoda/slides/blob/master/SNLP2021-IntrinsicDimensionalityExplainstheEffectivenessofLanguageModelFineTuning.pdf)] (in Japanese)
 * Mar. 2021: [第19回 NLP Dの会](https://sites.google.com/view/nlptokyod) (in Japanese)
 * Sep. 2020: 論文紹介＠最先端NLP勉強会 [[slides](https://github.com/KazutoshiShinoda/slides/blob/master/SNLP2020-A-Systematic-Assessment-of-Syntactic-Generalization-in-Neural-Language-Models.pdf)] (in Japanese)
