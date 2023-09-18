@@ -20,7 +20,7 @@ toc_icon: "cog"
 * May  2019 - Sep. 2019: Algorithm Engineer, ACES
 * Oct. 2018 – Feb. 2019: Freelance Machine Learning Engineer
 * Feb. 2018 – Mar. 2018: Research Intern, NTT Media Intelligence Laboratories
-  * Adviser: Dr. Kyosuke Nishida
+  * Adviser: Dr. Kyosuke Nishida and Dr. Taku Hasegawa
 * Jul. 2017 – Aug. 2017: R&D Intern, DeNA
 * Mar. 2017 - Jul. 2017: Algorithm Intern, PKSHA Technology
 
