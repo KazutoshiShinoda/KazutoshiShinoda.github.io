@@ -13,14 +13,14 @@ toc_icon: "cog"
 * Dec. 2021 - Mar. 2023: Researcher, Ememe
 * Mar. 2019 – Feb. 2023: Research Assistant, National Institute of Informatics
 * Jan. 2022 - Feb. 2022: Research Intern, NTT Human Informatics Laboratories
-  * Adviser: Dr. Kyosuke Nishida
+  * Adviser: Dr. Kyosuke Nishida and Dr. Taku Hasegawa
 * Sep. 2019 – Sep. 2021: Research Assistant, The University of Tokyo
 * Jul. 2020 - Mar. 2021: Collaborative Research with Matsuo Lab, The University of Tokyo
 * Apr. 2020 – Jun. 2020: Freelance Machine Learning Engineer
 * May  2019 - Sep. 2019: Algorithm Engineer, ACES
 * Oct. 2018 – Feb. 2019: Freelance Machine Learning Engineer
 * Feb. 2018 – Mar. 2018: Research Intern, NTT Media Intelligence Laboratories
-  * Adviser: Dr. Kyosuke Nishida and Dr. Taku Hasegawa
+  * Adviser: Dr. Kyosuke Nishida
 * Jul. 2017 – Aug. 2017: R&D Intern, DeNA
 * Mar. 2017 - Jul. 2017: Algorithm Intern, PKSHA Technology
 
