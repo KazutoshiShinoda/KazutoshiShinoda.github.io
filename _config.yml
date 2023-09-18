@@ -124,10 +124,10 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/KazutoshiShinoda"
     - label: "LinkedIn"
-      icon: "/assets/images/LI-In-Bug.png"
+      icon: "https://kazutoshishinoda.github.io/assets/images/LI-In-Bug.png"
       url: "https://www.linkedin.com/in/kazutoshi-shinoda-111705117/"
     - label: "researchmap"
-      icon: "/assets/images/researchmap130.gif"
+      icon: "https://kazutoshishinoda.github.io/assets/images/researchmap130.gif"
       url: "https://researchmap.jp/kazutoshishinoda"
 
 # Site Footer
