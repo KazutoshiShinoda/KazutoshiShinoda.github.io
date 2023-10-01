@@ -6,6 +6,16 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RHK7JKMTTB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RHK7JKMTTB');
+</script>
+
 Can also be found in [Google Scholar](https://scholar.google.co.jp/citations?user=CKzpArsAAAAJ&hl=ja), [dblp](https://dblp.uni-trier.de/pers/hd/s/Shinoda:Kazutoshi), and [Semantic Scholar](https://www.semanticscholar.org/author/Kazutoshi-Shinoda/50088672)
 
 ## Conference/Workshop Papers (Refereed)

@@ -6,6 +6,16 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RHK7JKMTTB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RHK7JKMTTB');
+</script>
+
 ## Experience
 * Apr. 2023 - present: Researcher, NTT Computer & Data Science Laboratories
 * Apr. 2022 - Mar. 2023: JSPS Research Fellow (DC2), The University of Tokyo
