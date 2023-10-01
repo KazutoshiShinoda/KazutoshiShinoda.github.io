@@ -75,6 +75,7 @@ Language Processing (Top 1.7%, co-authored)
 
 ## Other Activities
 * Aug. 2023: 論文紹介＠最先端NLP勉強会 [[slides](https://speakerdeck.com/kazutoshishinoda/lun-wen-shao-jie-minding-language-models-lack-of-theory-of-mind-a-plug-and-play-multi-character-belief-tracker)]
+* Mar. 2023: 大規模言語モデルの知識を補完するための Retriever (RAG) の紹介 [[link](https://tech.acesinc.co.jp/entry/2023/03/31/121001)]
 * Sep. 2021: 論文紹介＠最先端NLP勉強会 [[slides](https://github.com/KazutoshiShinoda/slides/blob/master/SNLP2021-IntrinsicDimensionalityExplainstheEffectivenessofLanguageModelFineTuning.pdf)] (in Japanese)
 * Mar. 2021: [第19回 NLP Dの会](https://sites.google.com/view/nlptokyod) (in Japanese)
 * Sep. 2020: 論文紹介＠最先端NLP勉強会 [[slides](https://github.com/KazutoshiShinoda/slides/blob/master/SNLP2020-A-Systematic-Assessment-of-Syntactic-Generalization-in-Neural-Language-Models.pdf)] (in Japanese)
