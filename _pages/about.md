@@ -17,7 +17,8 @@ toc_icon: "cog"
 </script>
 
 ## Experience
-* Apr. 2023 - present: Researcher, NTT Computer & Data Science Laboratories
+* Oct. 2023 - present: Researcher, NTT Human Informatics Laboratories
+* Apr. 2023 - Sep. 2023: Researcher, NTT Computer & Data Science Laboratories
 * Apr. 2022 - Mar. 2023: JSPS Research Fellow (DC2), The University of Tokyo
 * Nov. 2022 - Mar. 2023: Algorithm Engineer, ACES
 * Dec. 2021 - Mar. 2023: Researcher, Ememe

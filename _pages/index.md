@@ -14,7 +14,7 @@ author_profile: true
   gtag('config', 'G-RHK7JKMTTB');
 </script>
 
-* Researcher at NTT Computer & Data Science Laboratories
+* Researcher at NTT Human Informatics Laboratories
 * Ph.D. in Information Science and Technology
 
 ### Research Interest
