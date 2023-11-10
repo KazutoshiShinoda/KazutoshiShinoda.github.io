@@ -60,9 +60,10 @@ Language Processing (Top 1.7%, co-authored)
 * Apr. 2017 - Mar. 2018: UTokyo Toyota-Dwango AI scholarship
 
 ## Review
+* 2024: EACL
 * 2023: ACL, MMM, EMNLP
-* 2022: ARR Jan., Mar., Dec., EMNLP
-* 2021: ARR Nov. (secondary), EMNLP, NAACL, TACL2021 (secondary)
+* 2022: EMNLP, ARR Jan., Mar., Dec.
+* 2021: EMNLP, NAACL, TACL2021 (secondary), ARR Nov. (secondary)
 * 2020: ACL
 * 2019: ACL (secondary)
 
