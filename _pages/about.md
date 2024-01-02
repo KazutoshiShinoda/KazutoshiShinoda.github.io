@@ -60,7 +60,7 @@ Language Processing (Top 1.7%, co-authored)
 * Apr. 2017 - Mar. 2018: UTokyo Toyota-Dwango AI scholarship
 
 ## Review
-* 2024: EACL
+* 2024: EACL, NAACL
 * 2023: ACL, MMM, EMNLP
 * 2022: EMNLP, ARR Jan., Mar., Dec.
 * 2021: EMNLP, NAACL, TACL2021 (secondary), ARR Nov. (secondary)
@@ -76,6 +76,7 @@ Language Processing (Top 1.7%, co-authored)
 * Apr. 2018 - Jun. 2018: Making Aidemy's online course ["NLP for Question Answering"](https://aidemy.net/courses/6120)
 
 ## Other Activities
+* Jan. 2024: 人工知能学会 博士論文特集 [[link](https://www.jstage.jst.go.jp/article/jjsai/39/1/39_50/_article/-char/ja)]
 * Aug. 2023: 論文紹介＠最先端NLP勉強会 [[slides](https://speakerdeck.com/kazutoshishinoda/lun-wen-shao-jie-minding-language-models-lack-of-theory-of-mind-a-plug-and-play-multi-character-belief-tracker)]
 * Mar. 2023: 大規模言語モデルの知識を補完するための Retriever (RAG) の紹介 [[link](https://tech.acesinc.co.jp/entry/2023/03/31/121001)]
 * Mar. 2023: [第25回 NLP Dの会](https://sites.google.com/view/nlp-phd) (in Japanese)
