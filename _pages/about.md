@@ -49,6 +49,7 @@ toc_icon: "cog"
   * Adviser: Prof. Katsuyuki Suzuki
 
 ## Awards
+* Mar. 2024: Sponsorship Award, the 30th Annual Meeting of the Association for Natural Language Processing
 * Jun. 2021: JSAI Incentive Award (2020), the Japanese Society for Artificial Intelligence (JSAI) (Top 5%)
 * Dec. 2020: Presentation Award, NTCIR-15 (co-authored)
 * Mar. 2019: Paper Award, the 25th Annual Meeting of the Association for Natural
@@ -60,7 +61,7 @@ Language Processing (Top 1.7%, co-authored)
 * Apr. 2017 - Mar. 2018: UTokyo Toyota-Dwango AI scholarship
 
 ## Review
-* 2024: EACL, NAACL
+* 2024: EACL, NAACL, ACL
 * 2023: ACL, MMM, EMNLP
 * 2022: EMNLP, ARR Jan., Mar., Dec.
 * 2021: EMNLP, NAACL, TACL2021 (secondary), ARR Nov. (secondary)
