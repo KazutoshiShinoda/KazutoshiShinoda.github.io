@@ -19,6 +19,8 @@ toc_icon: "cog"
 Can also be found in [Google Scholar](https://scholar.google.co.jp/citations?user=CKzpArsAAAAJ&hl=ja), [dblp](https://dblp.uni-trier.de/pers/hd/s/Shinoda:Kazutoshi), and [Semantic Scholar](https://www.semanticscholar.org/author/Kazutoshi-Shinoda/50088672)
 
 ## Conference/Workshop Papers (Refereed)
+* Saki Mizuno, Nobukatsu Hojo, **Kazutoshi Shinoda**, Keita Suzuki, Mana Ihori, Hiroshi Sato, Tomohiro Tanaka, Naotaka Kawata, Satoshi Kobashikawa, Ryo Masumura: "Talking Face Generation for Impression Conversion Considering Speech Semantics." In Proceedings of ICASSP, pages 8411–8415. Seoul, Korea. April, 2024.
+  * [[paper](https://ieeexplore.ieee.org/abstract/document/10446947)]
 * **Kazutoshi Shinoda**, Saku Sugawara, Akiko Aizawa: "Which Shortcut Solution Do Question Answering Models Prefer to Learn?" In Proceedings of the 37th AAAI conference on Artificial Intelligence (AAAI), pages 13564–13572. Washington, DC, USA. February, 2023. (acceptance rate = 19.6%, Oral)
   * [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26590)] [[arXiv](https://arxiv.org/abs/2211.16220)] [[code](https://github.com/KazutoshiShinoda/ShortcutLearnability)] [[slides](https://github.com/KazutoshiShinoda/slides/blob/master/AAAI2023-presentation-public.pdf)] [[poster](https://github.com/KazutoshiShinoda/slides/blob/master/AAAI2023-poster-public.pdf)]
 * **Kazutoshi Shinoda**, Saku Sugawara, Akiko Aizawa: "Penalizing Confident Predictions on Largely Perturbed Inputs Does Not Improve Out-of-Distribution Generalization in Question Answering." The Workshop on Knowledge Augmented Methods for NLP (KnowledgeNLP) at AAAI 2023. Washington, DC, USA. February, 2023.
