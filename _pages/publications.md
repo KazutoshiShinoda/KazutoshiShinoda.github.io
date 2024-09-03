@@ -19,11 +19,11 @@ toc_icon: "cog"
 Can also be found in [Google Scholar](https://scholar.google.co.jp/citations?user=CKzpArsAAAAJ&hl=ja), [dblp](https://dblp.uni-trier.de/pers/hd/s/Shinoda:Kazutoshi), and [Semantic Scholar](https://www.semanticscholar.org/author/Kazutoshi-Shinoda/50088672)
 
 ## Conference/Workshop Papers (Refereed)
-* **Kazutoshi Shinoda**, Nobukatsu Hojo, Saki Mizuno, Keita Suzuki, Satoshi Kobashikawa, Ryo Masumura: "Learning from Multiple Annotator Biased Labels in Multimodal Conversation." In Proceedings of Interspeech, pages 4089–4093. Kos, Greece. September, 2024.
+* **Kazutoshi Shinoda**, Nobukatsu Hojo, Saki Mizuno, Keita Suzuki, Satoshi Kobashikawa, Ryo Masumura: "Learning from Multiple Annotator Biased Labels in Multimodal Conversation." In Proceedings of Interspeech, pages 4089–4093. Kos, Greece. September, 2024. (acceptance rate = 48.2%)
   * [[paper](https://www.isca-archive.org/interspeech_2024/shinoda24_interspeech.html)]
-* Keita Suzuki, Nobukatsu Hojo, **Kazutoshi Shinoda**, Saki Mizuno, Ryo Masumura: "Participant-Pair-Wise Bottleneck Transformer for Engagement Estimation from Video Conversation." In Proceedings of Interspeech, pages 4079–4083. Kos, Greece. September, 2024.
+* Keita Suzuki, Nobukatsu Hojo, **Kazutoshi Shinoda**, Saki Mizuno, Ryo Masumura: "Participant-Pair-Wise Bottleneck Transformer for Engagement Estimation from Video Conversation." In Proceedings of Interspeech, pages 4079–4083. Kos, Greece. September, 2024. (acceptance rate = 48.2%)
   * [[paper](https://www.isca-archive.org/interspeech_2024/suzuki24_interspeech.html)]
-* Ryo Masumura, Naoki Makishima, Tomohiro Tanaka, Mana Ihori, Naotaka Kawata, Shota Orihashi, **Kazutoshi Shinoda**, Taiga Yamane, Saki Mizuno, Keita Suzuki, Satoshi Suzuki, Nobukatsu Hojo, Takafumi Moriya, Atsushi Ando: "Unified Multi-Talker ASR with and without Target-speaker Enrollment." In Proceedings of Interspeech, pages 727–731. Kos, Greece. September, 2024.
+* Ryo Masumura, Naoki Makishima, Tomohiro Tanaka, Mana Ihori, Naotaka Kawata, Shota Orihashi, **Kazutoshi Shinoda**, Taiga Yamane, Saki Mizuno, Keita Suzuki, Satoshi Suzuki, Nobukatsu Hojo, Takafumi Moriya, Atsushi Ando: "Unified Multi-Talker ASR with and without Target-speaker Enrollment." In Proceedings of Interspeech, pages 727–731. Kos, Greece. September, 2024. (acceptance rate = 48.2%)
   * [[paper](https://www.isca-archive.org/interspeech_2024/masumura24_interspeech.html)]
 * Saki Mizuno, Nobukatsu Hojo, **Kazutoshi Shinoda**, Keita Suzuki, Mana Ihori, Hiroshi Sato, Tomohiro Tanaka, Naotaka Kawata, Satoshi Kobashikawa, Ryo Masumura: "Talking Face Generation for Impression Conversion Considering Speech Semantics." In Proceedings of ICASSP, pages 8411–8415. Seoul, Korea. April, 2024.
   * [[paper](https://ieeexplore.ieee.org/abstract/document/10446947)]
