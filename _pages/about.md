@@ -51,7 +51,7 @@ Language Processing (Top 1.7%, co-authored)
 
 ## Review
 * 2025: NAACL
-* 2024: EACL, NAACL, ACL, COLM, ARR Apr., EMNLP ([Outstanding Reviewer](https://x.com/emnlpmeeting/status/1857169065569292540)), WiNLP
+* 2024: EACL, NAACL, ACL, COLM, ARR Apr., EMNLP ([Outstanding Reviewer](https://aclanthology.org/2024.emnlp-main.0.pdf), 3.6%=372/10309), WiNLP
 * 2023: ACL, MMM, EMNLP
 * 2022: EMNLP, ARR Jan., Mar., Dec.
 * 2021: EMNLP, NAACL, TACL2021 (secondary), ARR Nov. (secondary)
