@@ -73,6 +73,7 @@ Language Processing (Top 1.7%, co-authored)
 * May. 2022: 論文紹介@DL輪読会 [[slides](https://www.docswell.com/s/DeepLearning2023/5M19G9-dlwhich-shortcut-cues-will-dnns-choose-a-study-from-the-parameterspace-perspective)]
 * Sep. 2021: 論文紹介＠最先端NLP勉強会 [[slides](https://github.com/KazutoshiShinoda/slides/blob/master/SNLP2021-IntrinsicDimensionalityExplainstheEffectivenessofLanguageModelFineTuning.pdf)] (in Japanese)
 * Mar. 2021: [第19回 NLP Dの会](https://sites.google.com/view/nlp-phd) (in Japanese)
+* Oct. 2020: 論文紹介@DL輪読会 [[slides](https://www.slideshare.net/slideshow/dlwhat-do-models-learn-from-question-answering-datasets-238947266/238947266?embed_session_id=b825d8ee-dec5-4791-a272-3743a4e548cc)]
 * Jul. 2020 - Mar. 2021: Collaborative Research with Matsuo Lab, The University of Tokyo
 * Sep. 2020: 論文紹介＠最先端NLP勉強会 [[slides](https://github.com/KazutoshiShinoda/slides/blob/master/SNLP2020-A-Systematic-Assessment-of-Syntactic-Generalization-in-Neural-Language-Models.pdf)] (in Japanese)
 * Jun. 2020: NII Open House 2020 (poster session) "Artificial Intelligence to Create Reading Comprehension Questions" [[poster](https://www.nii.ac.jp/event/upload/C04_oh2020.pdf)] (in Japanese)
