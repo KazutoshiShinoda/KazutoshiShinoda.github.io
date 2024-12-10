@@ -23,6 +23,9 @@ author_profile: true
 * Spurious Correlation / Dataset Bias / Shortcut Learning
 
 ### News
+**December, 2024** One paper has been accepted to AAAI2025.
+{: .notice--success}
+
 **June, 2024** Three papers (1 first-authored and 2 co-authored) have been accepted to Interspeech2024.
 {: .notice--success}
 

@@ -19,6 +19,8 @@ toc_icon: "cog"
 Can also be found in [Google Scholar](https://scholar.google.co.jp/citations?user=CKzpArsAAAAJ&hl=ja), [dblp](https://dblp.uni-trier.de/pers/hd/s/Shinoda:Kazutoshi), and [Semantic Scholar](https://www.semanticscholar.org/author/Kazutoshi-Shinoda/50088672)
 
 ## Conference/Workshop Papers (Refereed)
+* **Kazutoshi Shinoda**, Nobukatsu Hojo, Kyosuke Nishida, Saki Mizuno, Keita Suzuki, Ryo Masumura, Hiroaki Sugiyama, Kuniko Saito: "ToMATO: A Comprehensive Benchmark for Evaluating Theory of Mind in Large Language Models." In Proceedings of the 39th AAAI conference on Artificial Intelligence (AAAI). Philadelphia, Pennsylvania, USA. February, 2025. (acceptance rate = 23.4%)
+  * The paper will be uploaded on arXiv soon.
 * **Kazutoshi Shinoda**, Nobukatsu Hojo, Saki Mizuno, Keita Suzuki, Satoshi Kobashikawa, Ryo Masumura: "Learning from Multiple Annotator Biased Labels in Multimodal Conversation." In Proceedings of Interspeech, pages 4089–4093. Kos, Greece. September, 2024. (acceptance rate = 48.2%)
   * [[paper](https://www.isca-archive.org/interspeech_2024/shinoda24_interspeech.html)]
 * Keita Suzuki, Nobukatsu Hojo, **Kazutoshi Shinoda**, Saki Mizuno, Ryo Masumura: "Participant-Pair-Wise Bottleneck Transformer for Engagement Estimation from Video Conversation." In Proceedings of Interspeech, pages 4079–4083. Kos, Greece. September, 2024. (acceptance rate = 48.2%)
