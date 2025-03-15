@@ -19,6 +19,8 @@ toc_icon: "cog"
 Can also be found in [Google Scholar](https://scholar.google.co.jp/citations?user=CKzpArsAAAAJ&hl=ja), [dblp](https://dblp.uni-trier.de/pers/hd/s/Shinoda:Kazutoshi), and [Semantic Scholar](https://www.semanticscholar.org/author/Kazutoshi-Shinoda/50088672)
 
 ## Conference/Workshop Papers (Refereed)
+* Nobukatsu Hojo, **Kazutoshi Shinoda**, Yoshihiro Yamazaki, Keita Suzuki, Hiroaki Sugiyama, Kyosuke Nishida, Kuniko Saito: "GenerativeGUI: Dynamic GUI Generation Leveraging LLMs for Enhanced User Interaction on Chat Interfaces." In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI, Late Breaking Work). Yokohama, Japan. April, 2025. (accepted)
+  * [[abs](https://programs.sigchi.org/chi/2025/program/content/194375)]
 * **Kazutoshi Shinoda**, Nobukatsu Hojo, Kyosuke Nishida, Saki Mizuno, Keita Suzuki, Ryo Masumura, Hiroaki Sugiyama, Kuniko Saito: "ToMATO: Verbalizing the Mental States of Role-Playing LLMs for Benchmarking Theory of Mind." In Proceedings of the 39th AAAI conference on Artificial Intelligence (AAAI). Philadelphia, Pennsylvania, USA. February, 2025. (acceptance rate = 23.4%, oral presentation: 600/12,957 = 4.6%)
   * [[arXiv](https://arxiv.org/abs/2501.08838)] [[data](https://github.com/nttmdlab-nlp/ToMATO)]
 * **Kazutoshi Shinoda**, Nobukatsu Hojo, Saki Mizuno, Keita Suzuki, Satoshi Kobashikawa, Ryo Masumura: "Learning from Multiple Annotator Biased Labels in Multimodal Conversation." In Proceedings of Interspeech, pages 4089–4093. Kos, Greece. September, 2024. (acceptance rate = 48.2%)
