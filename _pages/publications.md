@@ -52,6 +52,8 @@ Can also be found in [Google Scholar](https://scholar.google.co.jp/citations?use
 
 ## Others (Unrefereed)
 Domestic conferences, symposia, preprints, etc.
+* **篠田一聡**, 北条伸克, 西田京介, 水野沙希, 鈴木啓太, 増村亮, 杉山弘晃, 齋藤邦子: "ToMATO: 心の理論ベンチマークのためのロールプレイングLLMの心的状態の言語化"  言語処理学会第30回年次大会(NLP2025), 長崎, 2025.
+  * [[paper](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/B3-6.pdf)]
 * **篠田一聡**, 菅原朔, 相澤彰子: "質問応答モデルはどのショートカットを優先して学習するか？" 言語処理学会第30回年次大会(NLP2024), 神戸, 兵庫, 2024.
   * [[paper](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P5-6.pdf)] [[poster](https://github.com/KazutoshiShinoda/slides/blob/master/NLP2024-poster-shinoda.pdf)]
 * **篠田一聡**, 菅原朔, 相澤彰子: "抽出型質問応答における相対位置バイアスの除去." 言語処理学会第28回年次大会(NLP2022), オンライン, 2022.
