@@ -19,17 +19,21 @@ author_profile: true
 
 ### Research Interest
 * Natural Language Processing
-* Question Answering for Reading Comprehension
-* Spurious Correlation / Dataset Bias / Shortcut Learning
+* Question Answering
+* Spurious Correlation / Bias / Shortcut Learning
+* Theory of Mind
 
 ### News
-**December, 2024** One paper has been accepted to AAAI2025.
+**February, 2025** One paper (co-authored) has been accepted to CHI2025 LBW.
+{: .notice--success}
+
+**December, 2024** One paper has been accepted to AAAI2025. [Paper](https://arxiv.org/abs/2501.08838){: .btn .btn--primary} [Data](https://github.com/nttmdlab-nlp/ToMATO){: .btn .btn--primary}
 {: .notice--success}
 
 **June, 2024** Three papers (1 first-authored and 2 co-authored) have been accepted to Interspeech2024.
 {: .notice--success}
 
-**November, 2022** One paper has been accepted to AAAI2023. [Paper](https://arxiv.org/abs/2211.16220){: .btn .btn--primary}
+**November, 2022** One paper has been accepted to AAAI2023. [Paper](https://arxiv.org/abs/2211.16220){: .btn .btn--primary} [Code](https://github.com/KazutoshiShinoda/ShortcutLearnability){: .btn .btn--primary}
 {: .notice--success}
 
 **November, 2022** One paper has been accepted to the KnowledgeNLP workshop at AAAI2023. [Paper](https://arxiv.org/abs/2211.16093){: .btn .btn--primary}
