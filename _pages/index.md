@@ -42,9 +42,6 @@ author_profile: true
 **October, 2022** One paper has been accepted to MMM2023. [Paper](https://arxiv.org/abs/2110.07031){: .btn .btn--primary}
 {: .notice--success}
 
-**October, 2022** One paper has been accepted to the BlackboxNLP workshop at EMNLP2022. [Paper](https://aclanthology.org/2022.blackboxnlp-1.35/){: .btn .btn--primary}
-{: .notice--success}
-
 <div class="text-center">
     <a href="/archive/" style="font-size: smaller; font-decoration: italic;">Older News</a>
 </div>
