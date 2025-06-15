@@ -52,6 +52,8 @@ Can also be found in [Google Scholar](https://scholar.google.co.jp/citations?use
 
 ## Others (Unrefereed)
 Domestic conferences, symposia, preprints, etc.
+* **Kazutoshi Shinoda**, Nobukatsu Hojo, Kyosuke Nishida, Yoshihiro Yamazaki, Keita Suzuki, Hiroaki Sugiyama, Kuniko Saito: "Let's Put Ourselves in Sally's Shoes: Shoes-of-Others Prefixing Improves Theory of Mind in Large Language Models." 2025.
+  * [[arXiv](https://arxiv.org/abs/2506.05970)]
 * **篠田一聡**, 北条伸克, 西田京介, 水野沙希, 鈴木啓太, 増村亮, 杉山弘晃, 齋藤邦子: "ToMATO: 心の理論ベンチマークのためのロールプレイングLLMの心的状態の言語化"  言語処理学会第30回年次大会(NLP2025), 長崎, 2025.
   * [[paper](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/B3-6.pdf)]
 * **篠田一聡**, 菅原朔, 相澤彰子: "質問応答モデルはどのショートカットを優先して学習するか？" 言語処理学会第30回年次大会(NLP2024), 神戸, 兵庫, 2024.

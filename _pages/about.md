@@ -51,13 +51,13 @@ Language Processing (Top 1.7%, co-authored)
 * Apr. 2017 - Mar. 2018: UTokyo Toyota-Dwango AI scholarship
 
 ## Review
-* 2025: NAACL, ACL, COLM
+* 2025: NAACL, ACL, COLM, EMNLP, NeurIPS (D&B Track)
 * 2024: EACL, NAACL, ACL, COLM, ARR Apr., EMNLP, WiNLP
 * 2023: ACL, MMM, EMNLP
 * 2022: EMNLP, ARR Jan., Mar., Dec.
-* 2021: EMNLP, NAACL, TACL (secondary), ARR Nov. (secondary)
+* 2021: EMNLP, NAACL, TACL, ARR Nov.
 * 2020: ACL
-* 2019: ACL (secondary)
+* 2019: ACL
 
 ## Funding
 * Apr. 2022 - Mar. 2023: Research Fellowship (DC2), JSPS (900K JPY)
