@@ -64,6 +64,7 @@ Language Processing (Top 1.7%, co-authored)
 * Oct. 2021 - Mar. 2022: SPRING, JST (330K JPY)
 
 ## Other Activities
+* Aug. 2025: 論文紹介＠最先端NLP勉強会 [[slides](https://speakerdeck.com/kazutoshishinoda/lun-wen-shao-jie-safety-alignment-should-be-made-more-than-just-a-few-tokens-deep)]
 * Aug. 2024: 論文紹介＠最先端NLP勉強会 [[slides](https://speakerdeck.com/kazutoshishinoda/lun-wen-shao-jie-direct-preference-optimization-your-language-model-is-secretly-a-reward-model)]
 * Jan. 2024: 人工知能学会 博士論文特集 [[link](https://www.jstage.jst.go.jp/article/jjsai/39/1/39_50/_article/-char/ja)]
 * Aug. 2023: 論文紹介＠最先端NLP勉強会 [[slides](https://speakerdeck.com/kazutoshishinoda/lun-wen-shao-jie-minding-language-models-lack-of-theory-of-mind-a-plug-and-play-multi-character-belief-tracker)]
