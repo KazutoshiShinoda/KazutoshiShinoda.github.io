@@ -45,10 +45,10 @@ toc_icon: "cog"
 * Mar. 2019: Paper Award, the 25th Annual Meeting of the Association for Natural
 Language Processing (Top 1.7%, co-authored)
 
-## Scholarships
-* Mar. 2022: Full exemption from repayment for particularly outstanding achievements, Japan Student Services Organization (JASSO)
-* Mar. 2019: Half exemption from repayment for particularly outstanding achievements, Japan Student Services Organization (JASSO)
-* Apr. 2017 - Mar. 2018: UTokyo Toyota-Dwango AI scholarship
+## Talks
+* Oct. 2025: LLMは心の理論を持っているか？
+  * 招待講演, [機械学習と数理モデルの融合と理論の深化 Ⅲ](https://joint.imi.kyushu-u.ac.jp/post-18929/), 九州大学
+  * [[slides](https://speakerdeck.com/kazutoshishinoda/llmhaxin-noli-lun-wochi-tuteiruka)]
 
 ## Review
 * 2025: NAACL, ACL, COLM, EMNLP, NeurIPS (D&B Track), AAAI
@@ -63,7 +63,13 @@ Language Processing (Top 1.7%, co-authored)
 * Apr. 2022 - Mar. 2023: Research Fellowship (DC2), JSPS (900K JPY)
 * Oct. 2021 - Mar. 2022: SPRING, JST (330K JPY)
 
+## Scholarships
+* Mar. 2022: Full exemption from repayment for particularly outstanding achievements, Japan Student Services Organization (JASSO)
+* Mar. 2019: Half exemption from repayment for particularly outstanding achievements, Japan Student Services Organization (JASSO)
+* Apr. 2017 - Mar. 2018: UTokyo Toyota-Dwango AI scholarship
+
 ## Other Activities
+* Jul. 2025: "ToMATO: 心の理論ベンチマークのためのロールプレイングLLMの心的状態の言語化"の紹介@KERNEL HONGO [[link](https://links-kernel.connpass.com/event/360021/)]
 * Aug. 2025: 論文紹介＠最先端NLP勉強会 [[slides](https://speakerdeck.com/kazutoshishinoda/lun-wen-shao-jie-safety-alignment-should-be-made-more-than-just-a-few-tokens-deep)]
 * Aug. 2024: 論文紹介＠最先端NLP勉強会 [[slides](https://speakerdeck.com/kazutoshishinoda/lun-wen-shao-jie-direct-preference-optimization-your-language-model-is-secretly-a-reward-model)]
 * Jan. 2024: 人工知能学会 博士論文特集 [[link](https://www.jstage.jst.go.jp/article/jjsai/39/1/39_50/_article/-char/ja)]

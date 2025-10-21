@@ -19,11 +19,14 @@ author_profile: true
 
 ### Research Interest
 * Natural Language Processing
-* Question Answering
 * Spurious Correlation / Bias / Shortcut Learning
 * Theory of Mind
+* Post-training
 
 ### News
+**October, 2025** I gave an invited talk titled "Do Large Language Models Have Theory of Mind?" at Kyushu University. [Slides](https://speakerdeck.com/kazutoshishinoda/llmhaxin-noli-lun-wochi-tuteiruka)
+{: .notice--success}
+
 **February, 2025** One paper (co-authored) has been accepted to CHI2025 LBW.
 {: .notice--success}
 
