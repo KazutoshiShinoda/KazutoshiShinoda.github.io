@@ -40,7 +40,7 @@ toc_icon: "cog"
 ## Awards
 * Nov. 2024: [Outstanding Reviewer](https://aclanthology.org/2024.emnlp-main.0.pdf), EMNLP (3.6%=372/10309)
 * Mar. 2024: Sponsorship Award, the 30th Annual Meeting of the Association for Natural Language Processing
-* Jun. 2021: JSAI Incentive Award (2020), the Japanese Society for Artificial Intelligence (JSAI) (Top 5%)
+* Jun. 2021: JSAI Incentive Award (2020), the Japanese Society for Artificial Intelligence (JSAI) (3.7%=15/402)
 * Dec. 2020: Presentation Award, NTCIR-15 (co-authored)
 * Mar. 2019: Paper Award, the 25th Annual Meeting of the Association for Natural
 Language Processing (Top 1.7%, co-authored)
@@ -51,7 +51,7 @@ Language Processing (Top 1.7%, co-authored)
   * [[slides](https://speakerdeck.com/kazutoshishinoda/llmhaxin-noli-lun-wochi-tuteiruka)]
 
 ## Review
-* 2025: NAACL, ACL, COLM, EMNLP, NeurIPS (D&B Track), AAAI
+* 2025: NAACL, ACL, COLM, EMNLP, NeurIPS, AAAI
 * 2024: EACL, NAACL, ACL, COLM, ARR Apr., EMNLP, WiNLP
 * 2023: ACL, MMM, EMNLP
 * 2022: EMNLP, ARR Jan., Mar., Dec.
