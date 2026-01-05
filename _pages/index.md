@@ -19,11 +19,14 @@ author_profile: true
 
 ### Research Interest
 * Natural Language Processing
-* Spurious Correlation / Bias / Shortcut Learning
+* Bias / Shortcut Learning
 * Theory of Mind
-* Post-training
+* LLM Post-training
 
 ### News
+**January, 2026** One paper has been accepted to EACL2026 (findings). [Paper](https://arxiv.org/abs/2506.05970){: .btn .btn--primary}
+{: .notice--success}
+
 **October, 2025** I gave an invited talk titled "Do Large Language Models Have Theory of Mind?" at Kyushu University. [Slides](https://speakerdeck.com/kazutoshishinoda/llmhaxin-noli-lun-wochi-tuteiruka){: .btn .btn--primary}
 {: .notice--success}
 

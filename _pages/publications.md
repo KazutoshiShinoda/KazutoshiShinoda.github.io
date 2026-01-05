@@ -19,6 +19,8 @@ toc_icon: "cog"
 Can also be found in [Google Scholar](https://scholar.google.co.jp/citations?user=CKzpArsAAAAJ&hl=ja), [dblp](https://dblp.uni-trier.de/pers/hd/s/Shinoda:Kazutoshi), and [Semantic Scholar](https://www.semanticscholar.org/author/Kazutoshi-Shinoda/50088672)
 
 ## Conference/Workshop Papers (Refereed)
+* **Kazutoshi Shinoda**, Nobukatsu Hojo, Kyosuke Nishida, Yoshihiro Yamazaki, Keita Suzuki, Hiroaki Sugiyama, Kuniko Saito: "Let's Put Ourselves in Sally's Shoes: Shoes-of-Others Prefixing Improves Theory of Mind in Large Language Models." In Findings of the Association for Computational Linguistics: EACL 2026. (accepted)
+  * [[arXiv](https://arxiv.org/abs/2506.05970)]
 * Nobukatsu Hojo, **Kazutoshi Shinoda**, Yoshihiro Yamazaki, Keita Suzuki, Hiroaki Sugiyama, Kyosuke Nishida, Kuniko Saito: "GenerativeGUI: Dynamic GUI Generation Leveraging LLMs for Enhanced User Interaction on Chat Interfaces." In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI, Late Breaking Work). Yokohama, Japan. April, 2025.
   * [[paper](https://dl.acm.org/doi/10.1145/3706599.3719743)]
 * **Kazutoshi Shinoda**, Nobukatsu Hojo, Kyosuke Nishida, Saki Mizuno, Keita Suzuki, Ryo Masumura, Hiroaki Sugiyama, Kuniko Saito: "ToMATO: Verbalizing the Mental States of Role-Playing LLMs for Benchmarking Theory of Mind." In Proceedings of the 39th AAAI conference on Artificial Intelligence (AAAI). Philadelphia, Pennsylvania, USA. February, 2025. (acceptance rate = 23.4%, oral presentation: 600/12,957 = 4.6%)
@@ -52,8 +54,6 @@ Can also be found in [Google Scholar](https://scholar.google.co.jp/citations?use
 
 ## Others (Unrefereed)
 Domestic conferences, symposia, preprints, etc.
-* **Kazutoshi Shinoda**, Nobukatsu Hojo, Kyosuke Nishida, Yoshihiro Yamazaki, Keita Suzuki, Hiroaki Sugiyama, Kuniko Saito: "Let's Put Ourselves in Sally's Shoes: Shoes-of-Others Prefixing Improves Theory of Mind in Large Language Models." 2025.
-  * [[arXiv](https://arxiv.org/abs/2506.05970)]
 * **篠田一聡**, 北条伸克, 西田京介, 水野沙希, 鈴木啓太, 増村亮, 杉山弘晃, 齋藤邦子: "ToMATO: 心の理論ベンチマークのためのロールプレイングLLMの心的状態の言語化"  言語処理学会第30回年次大会(NLP2025), 長崎, 2025.
   * [[paper](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/B3-6.pdf)]
 * **篠田一聡**, 菅原朔, 相澤彰子: "質問応答モデルはどのショートカットを優先して学習するか？" 言語処理学会第30回年次大会(NLP2024), 神戸, 兵庫, 2024.
