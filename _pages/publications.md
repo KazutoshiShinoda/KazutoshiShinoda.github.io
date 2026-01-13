@@ -1,9 +1,6 @@
 ---
 title: Publications
 permalink: /publications/
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "cog"
 ---
 
 <!-- Google tag (gtag.js) -->
