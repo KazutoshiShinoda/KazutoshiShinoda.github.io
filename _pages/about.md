@@ -51,6 +51,7 @@ Language Processing (Top 1.7%, co-authored)
   * [[slides](https://speakerdeck.com/kazutoshishinoda/llmhaxin-noli-lun-wochi-tuteiruka)]
 
 ## Review
+* 2026: ACL, COLM
 * 2025: NAACL, ACL, COLM, EMNLP, NeurIPS, AAAI
 * 2024: EACL, NAACL, ACL, COLM, ARR Apr., EMNLP, WiNLP
 * 2023: ACL, MMM, EMNLP
