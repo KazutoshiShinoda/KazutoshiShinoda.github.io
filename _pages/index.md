@@ -24,7 +24,7 @@ author_profile: true
 * LLM Post-training
 
 ### News
-**March, 2026** One paper has received [Outstanding Paper Award](https://anlp.jp/nlp2026/award.html) at the 32nd Annual Meeting of the Association for Natural
+**March, 2026** Our paper has received [Outstanding Paper Award](https://anlp.jp/nlp2026/award.html) at the 32nd Annual Meeting of the Association for Natural
 Language Processing.
 {: .notice--success}
 
