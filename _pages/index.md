@@ -24,7 +24,7 @@ author_profile: true
 * LLM Post-training
 
 ### News
-**April, 2026** One paper has been accepted to ACL2026.
+**April, 2026** One paper has been accepted to ACL2026 (main). [Paper](https://arxiv.org/abs/2604.27495){: .btn .btn--primary}
 {: .notice--success}
 
 **March, 2026** Our paper has received [Outstanding Paper Award](https://anlp.jp/nlp2026/award.html) at the 32nd Annual Meeting of the Association for Natural
