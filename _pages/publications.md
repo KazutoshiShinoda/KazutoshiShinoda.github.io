@@ -20,7 +20,7 @@ Can also be found in [Google Scholar](https://scholar.google.co.jp/citations?use
 
 ## Conference/Workshop Papers (Refereed)
 * **Kazutoshi Shinoda**, Kosuke Nishida, Kyosuke Nishida: "Debiasing Reward Models via Causally Motivated Inference-Time Intervention." In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL). San Diego, United States. July, 2026. (acceptance rate = 19%, oral presentation)
-  * [[arXiv](https://arxiv.org/abs/2604.27495)]
+  * [[paper](https://aclanthology.org/2026.acl-long.1029/)] [[arXiv](https://arxiv.org/abs/2604.27495)]
 * **Kazutoshi Shinoda**, Nobukatsu Hojo, Kyosuke Nishida, Yoshihiro Yamazaki, Keita Suzuki, Hiroaki Sugiyama, Kuniko Saito: "Let's Put Ourselves in Sally's Shoes: Shoes-of-Others Prefilling Improves Theory of Mind in Large Language Models." In Findings of the Association for Computational Linguistics: EACL 2026. Rabat, Morocco. March, 2026. (acceptance rate = 36.2%)
   * [[paper](https://aclanthology.org/2026.findings-eacl.6/)] [[arXiv](https://arxiv.org/abs/2506.05970)]
 * Nobukatsu Hojo, **Kazutoshi Shinoda**, Yoshihiro Yamazaki, Keita Suzuki, Hiroaki Sugiyama, Kyosuke Nishida, Kuniko Saito: "GenerativeGUI: Dynamic GUI Generation Leveraging LLMs for Enhanced User Interaction on Chat Interfaces." In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI, Late Breaking Work). Yokohama, Japan. April, 2025.
