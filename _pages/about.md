@@ -56,7 +56,7 @@ Language Processing (1.7%, co-authored)
   * [[link](https://links-kernel.connpass.com/event/360021/)]
 
 ## Review
-* 2026: ACL, COLM, EMNLP, NeurIPS
+* 2026: ACL, COLM, EMNLP, NeurIPS, AAAI, WiNLP
 * 2025: NAACL, ACL, COLM, EMNLP, NeurIPS, AAAI
 * 2024: EACL, NAACL, ACL, COLM, ARR Apr., EMNLP, WiNLP
 * 2023: ACL, MMM, EMNLP
