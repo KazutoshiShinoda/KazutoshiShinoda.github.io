@@ -58,9 +58,10 @@ Language Processing (1.7%, co-authored)
   * 招待講演, KERNEL HONGO, 株式会社ディープコア
   * [[link](https://links-kernel.connpass.com/event/360021/)]
 
-## Academic Services
+## Academic Activity
 ### Area Chair
 * 2026: NAACL (Resources and Evaluation)
+
 ### Reviewer
 * 2026: ACL, COLM, EMNLP, NeurIPS, AAAI, WiNLP
 * 2025: NAACL, ACL, COLM, EMNLP, NeurIPS, AAAI
