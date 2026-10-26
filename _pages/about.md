@@ -48,6 +48,9 @@ Language Processing (2%=16/789)
 Language Processing (1.7%, co-authored)
 
 ## Talks
+* Sep. 2026: "ToMATO: 心の理論ベンチマークのためのロールプレイングLLMの心的状態の言語化"
+  * トップカンファレンスセッション, FIT2026
+  * [[link](https://www.gakkai-web.net/fit/program_web/data/html/event/TCS4-3.html)]
 * Oct. 2025: LLMは心の理論を持っているか？
   * 招待講演, [機械学習と数理モデルの融合と理論の深化 Ⅲ](https://joint.imi.kyushu-u.ac.jp/post-18929/), 九州大学
   * [[slides](https://speakerdeck.com/kazutoshishinoda/llmhaxin-noli-lun-wochi-tuteiruka)]
@@ -55,7 +58,10 @@ Language Processing (1.7%, co-authored)
   * 招待講演, KERNEL HONGO, 株式会社ディープコア
   * [[link](https://links-kernel.connpass.com/event/360021/)]
 
-## Review
+## Academic Services
+### Area Chair
+* 2026: NAACL (Resources and Evaluation)
+### Reviewer
 * 2026: ACL, COLM, EMNLP, NeurIPS, AAAI, WiNLP
 * 2025: NAACL, ACL, COLM, EMNLP, NeurIPS, AAAI
 * 2024: EACL, NAACL, ACL, COLM, ARR Apr., EMNLP, WiNLP
