@@ -60,9 +60,10 @@ Language Processing (1.7%, co-authored)
 
 ## Academic Activity
 ### Area Chair
-* 2026: NAACL (Resources and Evaluation)
+* 2027: NAACL (Resources and Evaluation)
 
 ### Reviewer
+* 2027: ICASSP
 * 2026: ACL, COLM, EMNLP, NeurIPS, AAAI, WiNLP
 * 2025: NAACL, ACL, COLM, EMNLP, NeurIPS, AAAI
 * 2024: EACL, NAACL, ACL, COLM, ARR Apr., EMNLP, WiNLP
